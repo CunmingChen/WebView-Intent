@@ -75,9 +75,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## **实验截图：**
 ### 界面截图1
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Intent_1/pic1.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/WebView-Intent/blob/master/Intent_1/pic1.png?raw=true#pic_center)
 ### 界面截图2 
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Intent_1/pic2.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/WebView-Intent/blob/master/Intent_1/pic2.png?raw=true#pic_center)
 ### 界面截图3 
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Intent_1/pic3.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/WebView-Intent/blob/master/Intent_1/pic3.png?raw=true#pic_center)  
  
